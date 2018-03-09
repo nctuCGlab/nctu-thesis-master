@@ -8,3 +8,12 @@
 
 https://www.codecogs.com/latex/eqneditor.php
 即時顯示latex equations的更動結果
+
+近三年論文平均字數
+摘要：100 ~ 150
+引言：450 ~ 650
+文獻：400 ~ 1000
+方法：2000 ~ 3500
+結果：1000 ~ 1200
+
+conference/journal paper平均字數 3000~7000
