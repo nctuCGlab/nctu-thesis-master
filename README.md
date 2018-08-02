@@ -18,3 +18,16 @@ https://www.codecogs.com/latex/eqneditor.php
 結論：200 ~ 300  
 
 conference/journal paper平均字數 3000~7000
+
+## 論文內容
+
+### abstract
+Chiao Tung 兩字中間為空白
+
+### 一般章節
+圖片不會在段落之前
+
+### Conclusion
+1. 應先描述你所解決的問題之定義
+2. 說明你提出方法的特點
+3. 強調你的貢獻
